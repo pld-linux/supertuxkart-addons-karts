@@ -7,7 +7,7 @@ Release:	1
 License:	Distributable
 Group:		X11/Applications/Games
 Source0:	http://downloads.sourceforge.net/supertuxkart/karts_addons_%{version}.zip
-# Source1-md5:	141165fc0a894c1216257261d3d54a1c
+# Source0-md5:	141165fc0a894c1216257261d3d54a1c
 URL:		http://supertuxkart.sourceforge.net/
 BuildRequires:	unzip
 Requires:	supertuxkart >= 0.7
